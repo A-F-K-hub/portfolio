@@ -33,7 +33,7 @@ const ImageSlider = ({ slides, heading }) => {
             {index === current && (
               <>
                 <div className="portfolio-title">{slide.name}</div>
-                <img src={slide.img} className="image" />
+                <img src={slide.img} alt="Project" className="image" />
                 <div className="desc">{slide.desc}</div>
                 <button className="button">
                   <a href={slide.href}>{slide.button}</a>
