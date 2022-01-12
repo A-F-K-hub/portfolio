@@ -1,0 +1,70 @@
+{
+  "main": {
+    "name": "Amanda Khumalo",
+    "occupation": "MERN Stack",
+    "description": "Web Developer",
+    "image": "AvatarMaker.png",
+    "bio": "My passion for technology and the intergration of it in my current field propelled my learning and development of my skills as a freelance web designer - with proven experience in HTML, CSS, ReactJS and backend services(MongoDb, ExpressJs, Nodejs, Firebase) My efficient communication skills, eye for detail and commitment to excellence enhance the quality of my work and empower me to deliver fully functional, responsive websites aligned with your vision and specifications. Please take a look at some of my (completed) projects below.",
+    "contactmessage": "Let's discuss why I'm the best fit for you:",
+    "email": "amandafkk19@gmail.com",
+    "phone": "+27 65 813 5415",
+    "address": {
+      "city": "Pretoria,",
+      "state": "Gauteng"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amanda-khumalo-b7789087/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/A-F-K-hub",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of South Africa - UNISA",
+        "degree": "Bachelor of Commerce, Economics"
+      }
+    ],
+    "work": [
+      {
+        "company": "United Nations - UN",
+        "title": "Ad-Hoc Consultant (Data Analysis and Visiualization)",
+        "years": "Jan 2018 - Present",
+        "description": "Collecting, cleaning, modelling of economic and socio-economic data. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs/Redux & NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "HTML, CSS, TailwindCSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "MongoDB, ExpressJS, NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      }
+    ]
+  }
+}
